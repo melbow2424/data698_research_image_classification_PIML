@@ -1,3 +1,4 @@
 # data698_research_image_classification_PIML
 This text pertains to the code used in the paper "Image Classification Accuracy with Physics-Informed Invariance to Reduced MNIST Dataset." The primary focus should be on the `mnist_rotation_elastic_deformation(FINALCODE)` as this code was instrumental in achieving the final results. It includes the CNN model, incorporates rotational invariance, applies elastic deformation, and features tests for loss versus epoch and accuracy curves for the segmented MNIST data. The other codes in this repository are uploaded solely for documentation purposes and were not used for the final outcomes of the paper.
 
+To run this code, you need GPU access and TensorFlow support. The following resource will assist you in using TensorFlow with GPU capabilities: https://www.tensorflow.org/install/pip#windows-native. Please note that native Windows no longer supports TensorFlow's GPU functionality; therefore, WSL2 must be installed first.
