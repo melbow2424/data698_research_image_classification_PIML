@@ -1,2 +1,3 @@
 # data698_research_image_classification_PIML
-Code from Image Classification Accuracy with Physics-Informed Invariance to Reduced MNIST Dataset paper
+This text pertains to the code used in the paper "Image Classification Accuracy with Physics-Informed Invariance to Reduced MNIST Dataset." The primary focus should be on the `mnist_rotation_elastic_deformation(FINALCODE)` as this code was instrumental in achieving the final results. It includes the CNN model, incorporates rotational invariance, applies elastic deformation, and features tests for loss versus epoch and accuracy curves for the segmented MNIST data. The other codes in this repository are uploaded solely for documentation purposes and were not used for the final outcomes of the paper.
+
